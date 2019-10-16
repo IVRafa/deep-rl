@@ -5,7 +5,7 @@ Although I will put emphasis on coding most of these from scratch, any code that
 
 ### Value based methods
 
-- [ ] Q-learning (tabular)
+- [ ] Q-learning (tabular and one-layer)
 - [ ] Deep Q-Network (DQN)
 - [ ] Double DQN  (DDQN) 
 - [ ] DQN with prioritised replay
