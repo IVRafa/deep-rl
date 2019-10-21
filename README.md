@@ -19,7 +19,7 @@ Although I will put emphasis on coding most of these from scratch, any code that
 
 ### Multi-agent
 
-- [ ] Muti-agent deep deterministic policy gradient (MADDPG) 
+- [ ] Multi-agent deep deterministic policy gradient (MADDPG) 
 
 ## Similar repositories
 
